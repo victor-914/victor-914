@@ -1,26 +1,26 @@
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.jpeg)](https://github.com/kshyun28)
+[![Hello World, I'm Victor!](assets/header.jpeg)](https://github.com/kshyun28)
 <!-- Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/). -->
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)] &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedhttps://www.linkedin.com/in/okafor-victor-a40971232/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:okaforv914@@gmail.com?subject=Hello%20Victor,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:okaforv914@gmail.com?subject=Hello%20Victor,%20From%20Github)
 
 </div>
 
 - 🔭 I’m currently working at [Cognate Studio](x.com/cognate_studio) where we were [incubated by Cognate Startup Incubator](https://x.com/cognate_studio). 
 - 🌱 I’m passionate about developing scalable and performant backend web2 & web3 project
-- 📝 I’m aiming to write **one article per week** starting from August 2024.
-- ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
-- ⚡ I'm passionate about system design. 
+<!-- - 📝 I’m aiming to write **one article per week** starting from August 2024. -->
+- ⚡ Fun fact: I read alot of books
+- ⚡ I'm passionate about system design
 
 <div align="center">
 
 
 ## 💻 My Tech Stack:
 
-[![Next.js,Node.js, JavaScript,  TypeScript, AWS, Java](https://skillicons.dev/icons?i=next,nodejs,js,ts,aws,java)](https://skillicons.dev)
+[![Next.js,Node.js, JavaScript,  TypeScript, AWS](https://skillicons.dev/icons?i=next,nodejs,js,ts,aws)](https://skillicons.dev)
 
 <!-- ## 📖 Read My Blogs:
 
