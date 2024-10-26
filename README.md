@@ -9,7 +9,7 @@
 
 </div>
 
-- 🔭 I’m currently working at [Cognate Studio](x.com/cognate_studio) where we were [incubated by Cognate Startup Incubator](https://x.com/cognate_studio). 
+- 🔭 I’m currently working at [Cognate Studio](x.com/cognate_studio) where we were [incubated by Cognix Startup Incubator](https://x.com/cognate_studio). 
 - 🌱 I’m passionate about developing scalable and performant backend web2 & web3 project
 <!-- - 📝 I’m aiming to write **one article per week** starting from August 2024. -->
 - ⚡ Fun fact: I read alot of books
